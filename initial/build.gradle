@@ -3,7 +3,7 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 
 repositories { mavenCentral() }
-
+/*
 dependencies {
 
 	compile 'org.springframework:spring-core:3.2.3.RELEASE'
@@ -27,4 +27,5 @@ test {
   }
 }
 task wrapper(type: Wrapper) { gradleVersion = '1.6' }
+*/
 
